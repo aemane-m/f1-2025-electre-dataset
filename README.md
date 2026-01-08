@@ -1,4 +1,4 @@
-#F1 2025 – Dataset et implémentation ELECTRE IS
+# F1 2025 – Dataset et implémentation ELECTRE IS
 
 Ce dépôt contient les données et le script Python utilisés pour une analyse de décision multicritère (MCDA) basée sur la méthode ELECTRE IS, appliquée au calendrier de la saison de Formule 1 2025.
 
