@@ -12,7 +12,7 @@ electre_is_incremental.py Script Python implémentant la méthodologie ELECTRE I
 
 ## Description du dataset
 
-Le fichier f1_2025_variables_brutes.csv regroupe les informations suivantes pour chaque épreuve du calendrier 2025 :
+Le fichier f1_2025_dataset_raw.csv regroupe les informations suivantes pour chaque épreuve du calendrier 2025 :
 
 Identification : Nom du Grand Prix et du circuit.
 
