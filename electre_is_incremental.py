@@ -104,7 +104,7 @@ class ElectreParams:
 
 
 # =========================
-# 3) Step matrix construction (Option B)
+# 3) Step matrix construction
 # =========================
 
 def compute_step_raw(
@@ -247,7 +247,7 @@ def tie_break_choice(step_raw: pd.DataFrame, candidates: List[int]) -> int:
 
 
 # =========================
-# 5) Main loop (logs + CSV exports, NO graph)
+# 5) Main loop (logs + CSV exports)
 # =========================
 
 def electre_build_calendar_with_logs(
