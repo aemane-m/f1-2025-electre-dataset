@@ -1,0 +1,25 @@
+gp_name,circuit_name,latitude,longitude,country,region,date,d21,d22,temp_avg_c,precip_mm_month
+Australian Grand Prix,Albert Park,-37.8497,144.968,Australia,Oceanie,16/03/2025,37,444600,20.13548387,80.4
+Chinese Grand Prix,Shanghai International Circuit,31.3389,121.22,China,Asie,23/03/2025,50,200000,12.03870968,71.6
+Japanese Grand Prix,Suzuka Circuit,34.8431,136.541,Japan,Asie,06/04/2025,25,222000,14.03333333,123.7
+Bahrain Grand Prix,Bahrain International Circuit,26.0325,50.5106,Bahrain,Moyen-Orient,13/04/2025,52,99500,29.44666667,0
+Saudi Arabian Grand Prix,Jeddah Corniche Circuit,21.6319,39.1044,Saudi Arabia,Moyen-Orient,20/04/2025,55,150000,28.67666667,1.3
+Miami Grand Prix,Miami International Autodrome,25.9581,-80.2389,USA,Amerique,04/05/2025,0,270000,27.30322581,133.9
+Emilia Romagna Grand Prix,Imola Circuit,44.3439,11.7167,Italy,Europe,18/05/2025,21,160000,17.52580645,75
+Monaco Grand Prix,Circuit de Monaco,43.7347,7.42056,Monaco,Europe,25/05/2025,20,200000,17.91612903,34.7
+Spanish Grand Prix,Circuit de Barcelona-Catalunya,41.57,2.26111,Spain,Europe,01/06/2025,25,284100,25.28,1.4
+Canadian Grand Prix,Circuit Gilles Villeneuve,45.5,-73.5228,Canada,Amerique,15/06/2025,32,345000,20.55666667,89.9
+Austrian Grand Prix,Red Bull Ring,47.2197,14.7647,Austria,Europe,29/06/2025,25,304000,19.74333333,61.5
+British Grand Prix,Silverstone Circuit,52.0786,-1.01694,UK,Europe,06/07/2025,26,480000,18.4,72.4
+Belgian Grand Prix,Spa-Francorchamps,50.4372,5.97139,Belgium,Europe,27/07/2025,22,380000,16.80967742,113.1
+Hungarian Grand Prix,Hungaroring,47.5789,19.2486,Hungary,Europe,03/08/2025,40,303000,22.78064516,49.9
+Dutch Grand Prix,Zandvoort Circuit,52.3888,4.54092,Netherlands,Europe,31/08/2025,32,305000,18.29032258,45.2
+Italian Grand Prix,Monza Circuit,45.6156,9.28111,Italy,Europe,07/09/2025,25,304100,18.63666667,234
+Azerbaijan Grand Prix,Baku City Circuit,40.3725,49.8533,Azerbaijan,Asie,21/09/2025,57,95000,20.79,36.3
+Singapore Grand Prix,Marina Bay Circuit,1.2914,103.864,Singapore,Asie,05/10/2025,35,264100,28.04193548,83.3
+United States Grand Prix,Circuit of the Americas,30.1328,-97.6411,USA,Amerique,19/10/2025,30,432000,24.28064516,43.8
+Mexican Grand Prix,Autodromo Hermanos Rodriguez,19.4042,-99.0907,Mexico,Amerique,26/10/2025,30,400600,16.91290323,128.2
+Brazilian Grand Prix,Interlagos Circuit,-23.7036,-46.6997,Brazil,Amerique,09/11/2025,25,267000,19.25666667,134
+Las Vegas Grand Prix,Las Vegas Strip Circuit,36.1162,-115.174,USA,Amerique,22/11/2025,0,315000,15.35,47.6
+Qatar Grand Prix,Losail Circuit,25.49,51.4542,Qatar,Moyen-Orient,30/11/2025,55,120000,24.43666667,0
+Abu Dhabi Grand Prix,Yas Marina Circuit,24.4672,54.6031,UAE,Moyen-Orient,07/12/2025,42,165000,21.73870968,19.1
